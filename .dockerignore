@@ -1,0 +1,12 @@
+.github/
+.idea/
+doc
+logs
+.dockerignore
+.gitignore
+docker-compose.yml
+Dockerfile
+LICENSE
+README.md
+TODO
+dockerbuild.sh
